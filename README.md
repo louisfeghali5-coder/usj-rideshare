@@ -17,3 +17,4 @@ pip install fastapi streamlit uvicorn requests pandas pydeck
 uvicorn main:app --reload
 ​Run the Frontend:
 streamlit run app.py
+python -m pip install fastapi streamlit uvicorn requests pandas pydeck
